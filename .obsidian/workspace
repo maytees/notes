@@ -4,11 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "af6ba94af42c861e",
+        "id": "eb9e403ec3fb580a",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "excalidraw",
+          "state": {
+            "file": "Spine/SpinePlan.md"
+          }
         }
       }
     ],
@@ -49,7 +51,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 377.5121879577637
   },
   "right": {
     "id": "14152ec77498a47e",
@@ -65,6 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spine/SpinePlan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +85,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "af6ba94af42c861e",
+  "active": "eb9e403ec3fb580a",
   "lastOpenFiles": [
+    "Spine/SpinePlan.md",
+    "History/England.md",
+    "Spine/Untitled.md",
+    "Excalidraw/Drawing 2022-03-18 22.05.48.excalidraw.md",
+    "Spine/Spine.md",
+    "Untitled.md",
     "Excalidraw/Drawing 2022-03-18 21.13.31.excalidraw.md",
     "History/Interwar Years, Great Depression, and WW2.md",
     "History/World War 1.md",
-    "History/Hatian Rev.md",
-    "History/England.md",
-    "History/French Rev, etc.md",
-    "History/Industrial Rev.md",
-    "History/Unit 7.md",
-    "History/Unit 2.md",
-    "README.md"
+    "History/Hatian Rev.md"
   ]
 }
